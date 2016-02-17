@@ -17,6 +17,6 @@
    "name": "Kanobu Игнор",
    "permissions": [ "http://kanobu.ru/*", "tabs", "storage"],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.1",
+   "version": "0.5.1",
    "web_accessible_resources": [ "images/icons/icon48.png", "scripts/3rd-party/jquery.min.map" ]
 }
